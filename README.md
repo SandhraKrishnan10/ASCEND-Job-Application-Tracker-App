@@ -23,9 +23,9 @@ Category	&  Technologies
 Frontend	React
 JavaScript
 UI	CSS / Tailwind (optional)
-State Management	useState
-props
-Build Tool	Vite 
+State Management,useState
+props,
+Build Tool,	Vite 
 Create React App
 
 
