@@ -43,12 +43,6 @@ project-folder/
 └── package.json
 
 
-🎯 Future Improvements
-* Add user authentication
-* Integrate a cloud database
-* Add filters (status-wise, company-wise)
-* Add export to PDF/Excel feature
-* Add light/dark theme toggle
-
 Contact: Sandhra R Krishnan
+
 GitHub:https://github.com/SandhraKrishnan10
