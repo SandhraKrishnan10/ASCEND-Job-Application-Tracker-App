@@ -17,12 +17,15 @@ Features:
 
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Category	&  Technologies
-Frontend	React, JavaScript
+Frontend	React
+JavaScript
 UI	CSS / Tailwind (optional)
-State Management	useState, props
-Build Tool	Vite / Create React App
+State Management	useState
+props
+Build Tool	Vite 
+Create React App
 
 
 
@@ -46,5 +49,5 @@ project-folder/
 * Add export to PDF/Excel feature
 * Add light/dark theme toggle
 
- Contact: Sandhra R Krishnan
+Contact: Sandhra R Krishnan
 GitHub:https://github.com/SandhraKrishnan10
