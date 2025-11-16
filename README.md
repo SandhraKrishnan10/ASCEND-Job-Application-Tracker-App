@@ -1,4 +1,4 @@
-ASCEND – Job Application Tracker App:
+"ASCEND – Job Application Tracker App":
 
 A simple and efficient web-based Job Application Tracker built with React, designed to help job seekers organize, monitor, and manage all their job applications in one place.
 
@@ -19,7 +19,7 @@ Features:
 
 
 🛠️ Tech Stack:
-Category	&  Technologies
+Technologies Used: 
 Frontend	React
 JavaScript
 UI	CSS / Tailwind (optional)
